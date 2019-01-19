@@ -1,0 +1,12 @@
+#ifndef		APP_CACHEDATA_MANAGE_H
+#define		APP_CACHEDATA_MANAGE_H
+
+
+#endif		// APP_CACHE_DATA_MANAGE_H
+
+
+
+
+
+
+

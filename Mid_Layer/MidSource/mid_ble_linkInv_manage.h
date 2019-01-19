@@ -1,0 +1,4 @@
+#ifndef			MID_BLE_LINKINV_MANAGE_H
+#define			MID_BLE_LINKINV_MANAGE_H
+
+#endif			// BLE_LINKINV_MANAGE_APP_H
